@@ -11,6 +11,6 @@ public class StudentController {
 	
 	@GetMapping("/student")
 	public String getStudent() {
-		return "welcome to azure Praddyman......";
+		return "welcome to azure Praddyman...... and sagar........";
 	}
 }
